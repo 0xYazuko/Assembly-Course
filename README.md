@@ -3,4 +3,4 @@
 
 ## 📍Hello World in Asm
 
-> [hello.asm]()
+> [hello.asm](https://github.com/0xYazuko/Assembly-Course/blob/main/Hello/hello.asm)
